@@ -1,4 +1,4 @@
-# Foundationsb-of-C-Programming
+# Foundations-of-C-Programming
 Welcome to the Foundations of C Programming repository. This repository contains projects and exercises from the "C Language Tutorial for Beginners (With Notes + Surprise)" by CodeWithHarry. It serves as a comprehensive guide to the fundamental concepts of C programming.
 
 Overview
